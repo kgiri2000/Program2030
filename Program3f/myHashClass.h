@@ -25,7 +25,7 @@ template<class T>
 class myHashClass
 {
 private:
-	#define HASHSIZE 393241
+	const static long int HASHSIZE 399991
 	myNode<T>* hashA[HASHSIZE];
 	void addNode(T item, myNode<T>*& t);
 	myNode<T>* searchNode(T item, myNode<T>* t, int& compares);
