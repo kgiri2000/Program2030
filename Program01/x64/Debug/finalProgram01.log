@@ -1,0 +1,8 @@
+﻿  prog01.cpp
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\Fall 2022 New Start\Computer Science COSC 2030\Programs\finalProgram01\timer.h(74,19): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\Fall 2022 New Start\Computer Science COSC 2030\Programs\finalProgram01\prog01.cpp(102,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  finalProgram01.vcxproj -> C:\Users\Kamal Giri\OneDrive - University of Wyoming\Desktop\Fall 2022 New Start\Computer Science COSC 2030\Programs\finalProgram01\x64\Debug\finalProgram01.exe
